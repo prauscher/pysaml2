@@ -8,6 +8,7 @@ import itertools
 import logging
 import os
 import re
+import sys
 from datetime import datetime
 from datetime import timezone
 from importlib.resources import files as _resource_files
